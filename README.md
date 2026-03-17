@@ -6,105 +6,22 @@
 
 &nbsp;
 
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on CLI tools <br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning DSA and Dev<br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=masterroshi06.masterroshi06&left_color=black&right_color=555555&left_text=visitors" />
 
-</div>
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCuMx-0hsSpZM8ZEeCWiu6Ng) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masterroshi06.dev@gmail.com) 
 
-&nbsp;
-
----
-
-&nbsp;
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════╗
-║              ~ about me ~                   ║
-╚══════════════════════════════════════════════╝
-```
-
-</div>
-
-&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp; 🔭 &nbsp; I'm currently working on **linux cli tools**
-
-&nbsp;&nbsp;&nbsp;&nbsp; 🌱 &nbsp; I'm learning &nbsp; ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-&nbsp;&nbsp;&nbsp;&nbsp; 👯 &nbsp; I'm willing to collaborate on **building communities** and **open-source projects**
-
-&nbsp;&nbsp;&nbsp;&nbsp; 📫 &nbsp; Reach me at &nbsp;[tommyvercetii1947@gmail.com](mailto:tommyvercetii1947@gmail.com)
-
-&nbsp;
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=masterroshi06&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=masterroshi06&theme=codeSTACKr&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=masterroshi06&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=masterroshi06&icon=2&color=1)](https://visitcount.itsvg.in)
 
-&nbsp;
 
-<div align="center">
 
-### 🛠 &nbsp; Tech & Tools
-
-&nbsp;
-
-![C++](https://img.shields.io/badge/-C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=6E40C9)
-![Python](https://img.shields.io/badge/-Python-0d0d0d?style=for-the-badge&logo=python&logoColor=7C3AED)
-![Bash](https://img.shields.io/badge/-Bash-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=A78BFA)
-![Shell](https://img.shields.io/badge/-Shell-0d0d0d?style=for-the-badge&logo=windowsterminal&logoColor=C4B5FD)
-
-</div>
-
-&nbsp;
-
----
-
-&nbsp;
-
-<div align="center">
-
-### 🔗 &nbsp; Links
-
-&nbsp;
-
-[![YouTube](https://img.shields.io/badge/YouTube-0d0d0d?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCuMx-0hsSpZM8ZEeCWiu6Ng)
-
-*LinkedIn · Twitter · Portfolio — coming soon*
-
-</div>
-
-&nbsp;
-
----
-
-&nbsp;
-
-<div align="center">
-
-### 📊 &nbsp; GitHub Stats
-
-&nbsp;
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=masterroshi06&show_icons=true&hide_border=true&count_private=false&include_all_commits=false&bg_color=0d0d0d&title_color=ffffff&icon_color=888888&text_color=aaaaaa" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterroshi06&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&langs_count=6" />
-
-&nbsp;
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=masterroshi06&theme=dark&hide_border=true&background=0D0D0D&stroke=333333&ring=888888&fire=aaaaaa&currStreakNum=FFFFFF&sideNums=AAAAAA&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=555555)](https://github.com/masterroshi06)
-
-</div>
-
-&nbsp;
-
----
-
-&nbsp;
-
-<div align="center">
-
-*"The best error message is the one that never shows up."*
-
-</div>
